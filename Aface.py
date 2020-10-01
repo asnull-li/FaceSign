@@ -8,7 +8,6 @@ import numpy as np  # numpy在opencv库中自带
 import requests
 import os
 import datetime
-import serial
 from playsound import playsound
 import threading
 

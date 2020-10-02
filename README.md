@@ -75,6 +75,8 @@
 
 ![20201002104117.jpg][8]
 
+# 现场演示视频
+[B站：FaceSign 演示视频][9]
 
 # 联系我
 Authon：小A
@@ -90,3 +92,4 @@ QQ：2253162533
   [6]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/2215194851.png
   [7]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1323135802.png
   [8]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/3668382161.jpg
+  [9]: https://b23.tv/QM6PAR

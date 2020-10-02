@@ -78,6 +78,16 @@
 # 现场演示视频
 [B站：FaceSign 演示视频][9]
 
+# 注意
+这里将返回一个人名列表并给变量names
+
+![2020-10-02 114831.png][10]
+
+在采集数据时输入人脸ID：0 对应列表中的第一个名字，以此类推
+
+    ['张三','李四','李华']
+    ID =0 对应张三
+
 # 联系我
 Authon：小A
 
@@ -93,3 +103,4 @@ QQ：2253162533
   [7]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1323135802.png
   [8]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/3668382161.jpg
   [9]: https://b23.tv/QM6PAR
+  [10]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1505172136.png

@@ -37,7 +37,7 @@
 
 （1）这个服务器环境可以是本地局域网环境或是云端云服务器。
 
-（2）这个服务器环境需要能正常运行PHP程序和使用数据库MySQL，若不能请自行百度相关环境搭建教程。这里推荐宝塔一键集成化环境。
+（2）这个服务器环境需要能正常运行PHP程序和使用数据库MySQL，若不能请自行百度相关环境搭建教程。这里推荐[宝塔][2]一键集成化环境。
 
 （3）你需要一个ip或域名，作为访问服务器的地址，若是本地服务器记得手机与你的程序连接在同一个局域网下，这样才能正常进行数据传输。
 
@@ -46,32 +46,32 @@
 （1）导入数据库数据
 将此文件导入到你的MySQL数据库中
 
-![2020-10-02 100945.png][2]
+![2020-10-02 100945.png][3]
 
 
-![2020-10-02 101458.png][3]
+![2020-10-02 101458.png][4]
 
 数据库结构：
 
-![2020-10-02 101305.png][4]
+![2020-10-02 101305.png][5]
 
 （2）修改数据库账号密码
 
 修改api.php中的数据库信息，若没有正常修改将导致数据无法上传到服务器
 
-![2020-10-02 101927.png][5]
+![2020-10-02 101927.png][6]
 
 （3）修改主机地址
 
 在python主程序main.py中修改主机地址为你的域名或局域网IP
 
-![2020-10-02 102443.png][6]
+![2020-10-02 102443.png][7]
 
 （4）下载使用App源码
 
 这里App源码请移步到另一个仓库下载，具体使用方法请看那里的描述文档。
 
-![20201002104117.jpg][7]
+![20201002104117.jpg][8]
 
 
 # 联系我
@@ -80,9 +80,10 @@ QQ：2253162533
 
 
   [1]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1010757683.jpg
-  [2]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1072375587.png
-  [3]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1654160804.png
-  [4]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/2011270633.png
-  [5]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/2215194851.png
-  [6]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1323135802.png
-  [7]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/3668382161.jpg
+  [2]: https://www.bt.cn/
+  [3]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1072375587.png
+  [4]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1654160804.png
+  [5]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/2011270633.png
+  [6]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/2215194851.png
+  [7]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/1323135802.png
+  [8]: https://cdn.jsdelivr.net/gh/Xiao-A1/fasv/usr/uploads/2020/10/3668382161.jpg
